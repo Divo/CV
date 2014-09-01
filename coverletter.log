@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.26)  4 JUN 2014 10:50
-=======
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.26)  19 AUG 2014 15:55
->>>>>>> d987532fdfdaba1d93c2a71a2b8a29d2722d6b5d
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.5.26)  1 SEP 2014 21:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -71,11 +67,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 17.
 
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 34--40
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 37--42
->>>>>>> d987532fdfdaba1d93c2a71a2b8a29d2722d6b5d
+Underfull \hbox (badness 10000) in paragraph at lines 42--46
 
  []
 
@@ -85,21 +77,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--42
 Here is how much of TeX's memory you used:
  413 strings out of 495028
  4388 string characters out of 6181497
- 52922 words of memory out of 5000000
+ 53922 words of memory out of 5000000
  3703 multiletter control sequences out of 15000+600000
  4245 words of font info for 16 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
-<<<<<<< HEAD
- 29i,8n,43p,425b,181s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,43p,719b,181s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on coverletter.pdf (1 page, 21349 bytes).
-=======
- 29i,8n,43p,362b,181s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on coverletter.pdf (1 page, 23367 bytes).
->>>>>>> d987532fdfdaba1d93c2a71a2b8a29d2722d6b5d
+Output written on coverletter.pdf (1 page, 24129 bytes).
 PDF statistics:
  12 PDF objects out of 1000 (max. 8388607)
  7 compressed objects within 1 object stream
